@@ -1,6 +1,6 @@
-# Library-Catalog-Management-System
+# Digital-Library-Catalog
 
-This project is a Library Catalog Management System built using C++ and a custom general tree data structure. It is designed to help librarians manage books by organizing them into categories and subcategories. The system allows users to add, search, edit, borrow, and return books, and track the borrowing history of each book.
+This project is a Library Catalog built using C++ and a custom general tree data structure. It is designed to help librarians manage books by organizing them into categories and subcategories. The system allows users to add, search, edit, borrow, and return books, and track the borrowing history of each book.
 
 Features
 
